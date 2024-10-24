@@ -29,8 +29,7 @@ Minimum SDK: 24
 Target SDK: 34
 ## Dependencies
 This project uses the following dependencies:
-
-Jetpack Compose: For building UI
-Material 3: For the app's design components
+- Jetpack Compose: For building UI
+- Material 3: For the app's design components
 ## License
 This project is licensed under the MIT License. 
