@@ -17,3 +17,10 @@ A simple Dice Roller Android app built using **Jetpack Compose**. This app allow
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/dice-roller.git
+2. Open the project in Android Studio.
+
+3. Build and run the app on an Android device or emulator.
+
+## How it works
+The app contains a single screen with a button to roll the dice. When the button is clicked, a random number between 1 and 6 is generated, and the corresponding dice face is displayed on the screen.
+   
