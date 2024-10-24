@@ -23,4 +23,14 @@ A simple Dice Roller Android app built using **Jetpack Compose**. This app allow
 
 ## How it works
 The app contains a single screen with a button to roll the dice. When the button is clicked, a random number between 1 and 6 is generated, and the corresponding dice face is displayed on the screen.
-   
+## Prerequisites 
+Android Studio with Kotlin support
+Minimum SDK: 24
+Target SDK: 34
+## Dependencies
+This project uses the following dependencies:
+
+Jetpack Compose: For building UI
+Material 3: For the app's design components
+## License
+This project is licensed under the MIT License. 
